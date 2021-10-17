@@ -144,16 +144,21 @@ body{
 		height: 450px;
 	}
 
-	.mural, .aba-escolhido{
+	.mural{
 		width: 90%;
-		height: 100px;
-		top: 15%;
+		height: 150px;
+		top: 25%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
 
 	.aba-escolhido{
-		margin: 35% 0% 0% 0%;
+		width: 90%;
+		height: 90px;
+		top: 25%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		margin: 60% 0% 0% 0%;
 	}
 
 	.caixa{
